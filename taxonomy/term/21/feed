@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2015.midcamp.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MidCamp - Other Valued Sponsor</title>
+ <link>http://2015.midcamp.org/sponsor-levels/other-valued-sponsor</link>
+ <description>Ad hoc and ala cart sponsorships which do not fit into the other categories.</description>
+ <language>en</language>
+<item>
+ <title>NxtTeam</title>
+ <link>http://2015.midcamp.org/sponsor/other-valued-sponsor/nxtteam</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img src=&quot;http://2015.midcamp.org/sites/default/files/styles/medium/public/sponsors/nxtteamlogo.png?itok=dnf69UiF&quot; width=&quot;220&quot; height=&quot;94&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Sponsorship Level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/sponsor-levels/other-valued-sponsor&quot;&gt;Other Valued Sponsor&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Providing technical training to corporate, academic and civic employees since 1990, we train over 4,000 people per year in 14 locations across the country. Our professional web development instructors offer hands-on, comprehensive, Acquia-endorsed Drupal training including Site Building, Layout &amp;amp; Theming, Panels Workshop and Module Development.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.nxtteam.com/&quot; target=&quot;_blank&quot;&gt;http://www.nxtteam.com/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 20 Mar 2015 23:14:15 +0000</pubDate>
+ <dc:creator>bannorb</dc:creator>
+ <guid isPermaLink="false">184 at http://2015.midcamp.org</guid>
+</item>
+<item>
+ <title>Mailchimp</title>
+ <link>http://2015.midcamp.org/sponsor/other-valued-sponsor/mailchimp</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img src=&quot;http://2015.midcamp.org/sites/default/files/styles/medium/public/sponsors/mailchimp_logo_nobackground_dark.png?itok=811DHAFw&quot; width=&quot;220&quot; height=&quot;54&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Sponsorship Level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/sponsor-levels/other-valued-sponsor&quot;&gt;Other Valued Sponsor&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;More than 7 million people and businesses around the world use &lt;a href=&quot;http://mailchimp.com/&quot; target=&quot;_blank&quot;&gt;MailChimp&lt;/a&gt;. Our features and integrations allow you to send marketing emails, automated messages, and targeted campaigns. And our detailed reports help you keep improving over time.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 15 Mar 2015 21:52:51 +0000</pubDate>
+ <dc:creator>froboy</dc:creator>
+ <guid isPermaLink="false">169 at http://2015.midcamp.org</guid>
+</item>
+</channel>
+</rss>

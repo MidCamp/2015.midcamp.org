@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2015.midcamp.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MidCamp - Sprint Day</title>
+ <link>http://2015.midcamp.org/sponsor-levels/sprint-day</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>MySQL/Oracle</title>
+ <link>http://2015.midcamp.org/sponsor/sprint-day/mysqloracle</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img src=&quot;http://2015.midcamp.org/sites/default/files/styles/medium/public/sponsors/logo-mysql-nobkg.png?itok=9cQilTAM&quot; width=&quot;220&quot; height=&quot;155&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Sponsorship Level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/sponsor-levels/sprint-day&quot;&gt;Sprint Day&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;MySQL is the world&amp;#39;s most popular open source database. With its proven cost-effective delivery, ease-of-use, performance, and scalability, MySQL has become the leading database choice for Web-based applications, used by high profile web properties including Facebook, Twitter, YouTube, Yahoo!, and many more. Visit &lt;a href=&quot;http://wwww.mysql.com&quot; target=&quot;_blank&quot;&gt;http://wwww.mysql.com&lt;/a&gt; today!&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 24 Feb 2015 17:27:16 +0000</pubDate>
+ <dc:creator>bannorb</dc:creator>
+ <guid isPermaLink="false">149 at http://2015.midcamp.org</guid>
+</item>
+<item>
+ <title>University of Illinois at Chicago</title>
+ <link>http://2015.midcamp.org/sponsor/sprint-day/university-illinois-chicago</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img src=&quot;http://2015.midcamp.org/sites/default/files/styles/medium/public/sponsors/oth.accc_.lockb_.lg_.blk_.png?itok=Am1c7qrJ&quot; width=&quot;220&quot; height=&quot;145&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Sponsorship Level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/sponsor-levels/sprint-day&quot;&gt;Sprint Day&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;&lt;a href=&quot;http://accc.uic.edu&quot; target=&quot;_blank&quot;&gt;The Academic Computing and Communications Center&lt;/a&gt; provides central computer support to the UIC campus community. Our major services include network, wireless and internet connectivity; Blackboard, public labs, classrooms, and instructional technology; digital and analog telephony; email, calendar, emergency communications, accounts and passwords, and other business tools.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 16 Feb 2015 21:21:27 +0000</pubDate>
+ <dc:creator>bannorb</dc:creator>
+ <guid isPermaLink="false">133 at http://2015.midcamp.org</guid>
+</item>
+</channel>
+</rss>

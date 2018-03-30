@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2015.midcamp.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MidCamp - Program</title>
+ <link>http://2015.midcamp.org/sponsor-levels/program</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>InternetDevels</title>
+ <link>http://2015.midcamp.org/sponsor/program/internetdevels</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img src=&quot;http://2015.midcamp.org/sites/default/files/styles/medium/public/sponsors/internetdevels_logo_drupal_and_symfony.png?itok=BoxOv6MC&quot; width=&quot;220&quot; height=&quot;52&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Sponsorship Level:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/sponsor-levels/program&quot;&gt;Program&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;&lt;a href=&quot;http://internetdevels.com/&quot; target=&quot;_blank&quot;&gt;InternetDevels&lt;/a&gt; is a Ukrainian Drupal development shop.&lt;/p&gt;&lt;p&gt;We provide offshore software outsourcing services for other digital agencies in North America and EU and deliver web development services to end customers.&lt;/p&gt;&lt;p&gt;We believe in open source, constantly support the community and love to visit Drupal events.&lt;/p&gt;&lt;p&gt;Have fun at MidCamp!&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 09 Feb 2015 18:06:59 +0000</pubDate>
+ <dc:creator>bannorb</dc:creator>
+ <guid isPermaLink="false">128 at http://2015.midcamp.org</guid>
+</item>
+</channel>
+</rss>
